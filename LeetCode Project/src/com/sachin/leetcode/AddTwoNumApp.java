@@ -7,10 +7,6 @@ public class AddTwoNumApp {
 		      ListNode next;
 		      ListNode(int x) { val = x; }
 		  }
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
-	}
 	 public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
 	        
 	        int carry = 0;
